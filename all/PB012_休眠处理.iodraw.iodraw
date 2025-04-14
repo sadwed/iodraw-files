@@ -111,6 +111,11 @@
             <mxPoint x="1240" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-45" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-28">
+          <mxGeometry x="-0.2107" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-27" target="Z0yjSPS8SF2zULahTb9S-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -130,7 +135,7 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-29" target="Z0yjSPS8SF2zULahTb9S-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-29" value="持续_SCREEN_TIME?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-29" value="持续_30S?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="410" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-34">
