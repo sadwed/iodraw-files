@@ -10,11 +10,14 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-1" value="MCU正常工作" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="345" y="90" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-2" target="Z0yjSPS8SF2zULahTb9S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-2" value="IO_1(PC3)高电平?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-4" value="IO_1(PC3)高电平?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="160" height="110" as="geometry" />
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-4" value="持续60S" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
