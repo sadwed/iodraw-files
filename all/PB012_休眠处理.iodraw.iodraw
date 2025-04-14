@@ -34,8 +34,8 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-4" value="持续_60S" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="620" width="80" height="80" as="geometry" />
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-8" value="MCU休眠&lt;div&gt;BUCK_EN (PC15)输出高&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="620" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
