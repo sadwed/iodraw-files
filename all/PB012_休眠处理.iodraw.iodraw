@@ -63,12 +63,12 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-8" value="MCU休眠&lt;div&gt;BUCK_EN (PC15)输出高&lt;/div&gt;&lt;div&gt;SLEEP_CTRL(PC12)输出高&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="705" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-9">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-9" target="Z0yjSPS8SF2zULahTb9S-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="930" />
-              <mxPoint x="170" y="230" />
+              <mxPoint x="170" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-20" value="按键事件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="430" width="160" height="110" as="geometry" />
+          <mxGeometry x="560" y="350" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
