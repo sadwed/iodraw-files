@@ -71,11 +71,13 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-9" value="IO_1(PC3)低电平&lt;br&gt;按键触发？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="790" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-18" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-9" target="Z0yjSPS8SF2zULahTb9S-9">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-18" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-9" target="Z0yjSPS8SF2zULahTb9S-9">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="845" />
-              <mxPoint x="560" y="850" />
+              <mxPoint x="560" y="960" />
+              <mxPoint x="400" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
