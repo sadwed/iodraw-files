@@ -146,6 +146,12 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-34" value="协议IC休眠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-38" target="Z0yjSPS8SF2zULahTb9S-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-38" value="设备接入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="710" width="160" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
