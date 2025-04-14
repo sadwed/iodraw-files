@@ -16,10 +16,19 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-2" value="IO_1(PC3)高电平?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Z0yjSPS8SF2zULahTb9S-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="485" as="sourcePoint" />
             <mxPoint x="240" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="485" />
+              <mxPoint x="240" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-4" value="持续_60S" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
