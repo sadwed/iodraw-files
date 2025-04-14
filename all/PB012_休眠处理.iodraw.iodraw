@@ -132,8 +132,16 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-27" value="无设备接入&lt;div&gt;&amp;amp;&amp;amp;&lt;br&gt;&lt;div&gt;全小电流模式&lt;/div&gt;&lt;div&gt;&amp;amp;&amp;amp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;一个无设备一个小电流&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="240" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-29" target="Z0yjSPS8SF2zULahTb9S-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-29" value="持续_SCREEN_TIME?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="410" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-34" value="协议IC休眠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="570" width="120" height="60" as="geometry" />
