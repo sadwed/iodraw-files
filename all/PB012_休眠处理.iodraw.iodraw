@@ -135,10 +135,13 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-29" target="Z0yjSPS8SF2zULahTb9S-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-35">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-46" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-35">
           <mxGeometry x="-0.1322" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-29" target="Z0yjSPS8SF2zULahTb9S-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-29" value="持续_30S?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1161" y="410" width="160" height="110" as="geometry" />
