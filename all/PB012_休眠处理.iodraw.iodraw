@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-12" value="&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;BUCK_EN (PC15)浮空&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;SLEEP_CTRL(PC12)浮空&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-11">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-12" value="&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;BUCK_EN (PC15)高阻态&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;SLEEP_CTRL(PC12)高阻态&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-11">
           <mxGeometry x="-0.0806" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
