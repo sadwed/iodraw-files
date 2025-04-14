@@ -41,7 +41,7 @@
             <mxPoint x="400" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-7">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-13" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-7">
           <mxGeometry x="-0.0808" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-9" value="IO_1(PC3)低电平&lt;br&gt;按键触发？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="790" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-9" target="Z0yjSPS8SF2zULahTb9S-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
