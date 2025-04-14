@@ -143,12 +143,7 @@
             <mxPoint x="1241" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z0yjSPS8SF2zULahTb9S-37">
-          <mxGeometry x="-0.2026" y="5" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-34" value="协议IC休眠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-34" value="协议IC休眠&lt;div&gt;IO_1拉高&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-38" target="Z0yjSPS8SF2zULahTb9S-25">
