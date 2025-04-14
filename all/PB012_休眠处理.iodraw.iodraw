@@ -87,8 +87,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-20" value="IO_1(PC3)低电平&lt;br&gt;按键触发？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="800" width="160" height="110" as="geometry" />
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-20" value="按键事件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="430" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
