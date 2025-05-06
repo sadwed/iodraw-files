@@ -95,7 +95,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0yjSPS8SF2zULahTb9S-24" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;注意SCREEN_TIME:默认10S&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Screen Brightness：默认75%&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;C1Port State：默认INPUT和OUTPUT&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="Z0yjSPS8SF2zULahTb9S-24" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;注意SCREEN_TIME:默认10S&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;strike&gt;Screen Brightness：默认75%&lt;/strike&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;C1Port State：默认INPUT和OUTPUT&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Z0yjSPS8SF2zULahTb9S-25" edge="1">
