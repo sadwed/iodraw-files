@@ -180,18 +180,7 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-38" value="设备接入" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="710" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="650" as="targetPoint" />
-            <mxPoint x="640" y="570" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-2" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0b_Fc35hL-Xz5oeHSvBD-1">
-          <mxGeometry x="-0.0808" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-3" value="持续_SCREEN_TIME?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="持续_SCREEN_TIME?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
