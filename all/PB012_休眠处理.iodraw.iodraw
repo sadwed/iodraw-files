@@ -196,10 +196,13 @@
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="IO_1(PC3)高电平持续_3S?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="700" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="息屏工作" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="560" y="310" width="120" height="120" as="geometry" />
+        <mxCell id="u9jcKqsvw--VoQoqF5X_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-5" target="u9jcKqsvw--VoQoqF5X_-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9jcKqsvw--VoQoqF5X_-14" target="0b_Fc35hL-Xz5oeHSvBD-4">
+        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="息屏工作" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="550" y="310" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="u9jcKqsvw--VoQoqF5X_-15" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9jcKqsvw--VoQoqF5X_-14" target="0b_Fc35hL-Xz5oeHSvBD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u9jcKqsvw--VoQoqF5X_-14" value="&lt;div&gt;无按键事件？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
