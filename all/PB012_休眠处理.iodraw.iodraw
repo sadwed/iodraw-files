@@ -199,41 +199,13 @@
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-5" target="0b_Fc35hL-Xz5oeHSvBD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-5" target="u9jcKqsvw--VoQoqF5X_-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u9jcKqsvw--VoQoqF5X_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="息屏工作" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="550" y="425" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9jcKqsvw--VoQoqF5X_-7" target="Z0yjSPS8SF2zULahTb9S-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="145" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-10" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u9jcKqsvw--VoQoqF5X_-9">
-          <mxGeometry x="-0.6865" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.987;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u9jcKqsvw--VoQoqF5X_-7" target="0b_Fc35hL-Xz5oeHSvBD-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="790" y="335" />
-              <mxPoint x="790" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-13" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u9jcKqsvw--VoQoqF5X_-12">
-          <mxGeometry x="0.43" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-7" value="&lt;div&gt;无按键事件？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="280" width="160" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
