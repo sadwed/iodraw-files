@@ -193,7 +193,7 @@
         <mxCell id="u9jcKqsvw--VoQoqF5X_-1" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-4" target="0b_Fc35hL-Xz5oeHSvBD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="IO_1(PC3)高电平持续_3S?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="IO_1(PC3)高电平持续_3S?&lt;div&gt;且无按键事件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="625" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-5" target="0b_Fc35hL-Xz5oeHSvBD-4" edge="1">
