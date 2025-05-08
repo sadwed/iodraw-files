@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-1" value="MCU正常工作" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="345" y="90" width="110" height="110" as="geometry" />
+          <mxGeometry x="345" y="90" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z0yjSPS8SF2zULahTb9S-2" target="Z0yjSPS8SF2zULahTb9S-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -211,8 +211,7 @@
             <Array as="points">
               <mxPoint x="760" y="580" />
               <mxPoint x="760" y="120" />
-              <mxPoint x="560" y="120" />
-              <mxPoint x="560" y="145" />
+              <mxPoint x="455" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
