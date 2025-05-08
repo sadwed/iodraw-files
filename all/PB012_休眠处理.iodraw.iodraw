@@ -49,6 +49,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0yjSPS8SF2zULahTb9S-4" target="0b_Fc35hL-Xz5oeHSvBD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z0yjSPS8SF2zULahTb9S-4" value="持续_SCREEN_TIME?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="160" height="110" as="geometry" />
         </mxCell>
@@ -181,10 +186,10 @@
           <mxGeometry x="1160" y="710" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="持续_5S?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="570" width="160" height="110" as="geometry" />
+          <mxGeometry x="530" y="620" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="IO_1(PC3)高电平" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="120" height="120" as="geometry" />
+          <mxGeometry x="550" y="425" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
