@@ -185,8 +185,13 @@
         <mxCell id="Z0yjSPS8SF2zULahTb9S-38" value="设备接入" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="710" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="IO_1(PC3)高电平持续_3S?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="620" width="160" height="110" as="geometry" />
+          <mxGeometry x="530" y="625" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-5" target="0b_Fc35hL-Xz5oeHSvBD-4">
           <mxGeometry relative="1" as="geometry" />
