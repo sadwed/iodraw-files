@@ -202,9 +202,6 @@
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="息屏工作" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="550" y="425" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-5" value="&lt;div&gt;无按键事件？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="270" width="160" height="110" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
