@@ -183,8 +183,8 @@
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="持续_SCREEN_TIME?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="530" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="MCU休眠&lt;div&gt;BUCK_EN (PC15)输出高&lt;/div&gt;&lt;div&gt;SLEEP_CTRL(PC12)输出高&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="120" height="120" as="geometry" />
+        <mxCell id="0b_Fc35hL-Xz5oeHSvBD-5" value="IO_1(PC3)高电平" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
