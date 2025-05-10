@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5j2-gY1ZKrs9kUwrnwQP">
-    <mxGraphModel dx="1910" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
             <mxPoint x="470" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u9jcKqsvw--VoQoqF5X_-1" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-4" target="0b_Fc35hL-Xz5oeHSvBD-5" edge="1">
+        <mxCell id="u9jcKqsvw--VoQoqF5X_-1" value="NO__计数清零" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0b_Fc35hL-Xz5oeHSvBD-4" target="0b_Fc35hL-Xz5oeHSvBD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0b_Fc35hL-Xz5oeHSvBD-4" value="IO_1(PC3)高电平持续_3S?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
