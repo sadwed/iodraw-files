@@ -239,6 +239,9 @@
         <mxCell id="ffkpP9sV6XPHPORqOy0X-2" value="&lt;div&gt;长按事件？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="150" width="160" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="hpTethqN_0WWINY4k4fU-1" value="插入事件判断：&lt;div&gt;两个端口的online_flag，acin_flag，置1表示插入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="265" width="130" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
