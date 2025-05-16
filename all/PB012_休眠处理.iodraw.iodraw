@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="5j2-gY1ZKrs9kUwrnwQP">
-    <mxGraphModel dx="796" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1124" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
         </mxCell>
         <mxCell id="u9jcKqsvw--VoQoqF5X_-18" value="NO__计数清零" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u9jcKqsvw--VoQoqF5X_-17" vertex="1" connectable="0">
           <mxGeometry x="-0.3581" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="116" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u9jcKqsvw--VoQoqF5X_-14" value="&lt;div&gt;无按键事件？&lt;span style=&quot;background-color: initial;&quot;&gt;或&lt;/span&gt;&lt;/div&gt;&lt;div&gt;设备插入事件？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
