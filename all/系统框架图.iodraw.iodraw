@@ -133,6 +133,11 @@
             <mxPoint x="669.8333333333335" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="779.9999999999998" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-24" value="mos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="230" width="100" height="40" as="geometry" />
         </mxCell>
