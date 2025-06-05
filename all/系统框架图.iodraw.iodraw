@@ -215,8 +215,8 @@
         <mxCell id="0ZpEB432WeYQlDTl-rbf-61" value="UI(LED)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-65" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="493" y="494" width="100" height="80" as="geometry" />
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-65" value="&lt;ul&gt;&lt;li&gt;Pmos由023控制&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="493" y="494" width="143" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
