@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="WH5N6246ZU0ieHF8X6T0">
-    <mxGraphModel dx="154" dy="121" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="659" dy="519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,7 +181,7 @@
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="739.8333333333335" y="375.6904843648275" as="targetPoint" />
+            <mxPoint x="740" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-39" value="TX_Sender&lt;div&gt;MT5820&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -223,7 +223,7 @@
         <mxCell id="0ZpEB432WeYQlDTl-rbf-72" value="Pmos由023控制&lt;div&gt;Nmos由SC8911控制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="549" y="522" width="113" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.623;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-30" target="0ZpEB432WeYQlDTl-rbf-39">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.623;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-30" target="0ZpEB432WeYQlDTl-rbf-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
