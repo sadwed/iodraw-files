@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-2" value="TYPE-C" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="140" y="350" width="130" height="80" as="geometry" />
+          <mxGeometry x="127" y="373" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;" parent="1" source="f49gPBboDWvJq2DYxOne-3" target="f49gPBboDWvJq2DYxOne-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -233,7 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-71" value="Touch" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="472" y="528" width="42" height="42" as="geometry" />
+          <mxGeometry x="448" y="553" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-72" value="Pmos由023控制&lt;div&gt;Nmos由SC8911控制&lt;/div&gt;&lt;div&gt;红线表示电源路径&lt;/div&gt;&lt;div&gt;黑线表示通信和控制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="546" y="494" width="113" height="25" as="geometry" />
