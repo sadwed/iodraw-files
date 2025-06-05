@@ -52,7 +52,7 @@
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="300" as="targetPoint" />
+            <mxPoint x="670" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-13" value="POWER&lt;div&gt;SC8911&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
