@@ -162,7 +162,7 @@
             <mxPoint x="760" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-28">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="431" y="288" as="targetPoint" />
           </mxGeometry>
@@ -214,6 +214,9 @@
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-61" value="UI(LED)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-65" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="493" y="494" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
