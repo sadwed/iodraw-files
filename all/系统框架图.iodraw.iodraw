@@ -125,7 +125,7 @@
             <mxPoint x="680" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-23" value="2Cell_8.4V" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
