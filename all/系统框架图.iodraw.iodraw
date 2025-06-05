@@ -74,6 +74,9 @@
             <mxPoint x="-40" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-17" target="0ZpEB432WeYQlDTl-rbf-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-17" value="Protocol&lt;div&gt;CS32G023&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -206,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-58" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="330" y="520" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
