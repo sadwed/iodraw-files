@@ -44,9 +44,9 @@
         <mxCell id="f49gPBboDWvJq2DYxOne-4" value="RX_Receiver&lt;div&gt;MT57&lt;span style=&quot;background-color: initial;&quot;&gt;88&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-9">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="392.03455642174026" y="299.81776480839176" as="targetPoint" />
+            <mxPoint x="454" y="298" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="300" />
             </Array>
