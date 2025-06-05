@@ -228,8 +228,8 @@
         <mxCell id="0ZpEB432WeYQlDTl-rbf-71" value="Touch" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="472" y="528" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-72" value="Pmos由023控制&lt;div&gt;Nmos由SC8911控制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="503" width="113" height="25" as="geometry" />
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-72" value="Pmos由023控制&lt;div&gt;Nmos由SC8911控制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="549" y="522" width="113" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
