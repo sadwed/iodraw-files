@@ -22,6 +22,9 @@
         <mxCell id="f49gPBboDWvJq2DYxOne-9" value="mos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="f49gPBboDWvJq2DYxOne-11" value="mos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
