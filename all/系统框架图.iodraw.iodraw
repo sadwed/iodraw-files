@@ -34,7 +34,7 @@
             <mxPoint x="370" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-4">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-4" target="0ZpEB432WeYQlDTl-rbf-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="150" as="targetPoint" />
           </mxGeometry>
@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f49gPBboDWvJq2DYxOne-13" value="POWER&lt;div&gt;SC8911&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="f49gPBboDWvJq2DYxOne-13" value="POWER&lt;div&gt;Charger&lt;br&gt;&lt;div&gt;SC8911&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="490" y="250" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-17" target="f49gPBboDWvJq2DYxOne-13">
