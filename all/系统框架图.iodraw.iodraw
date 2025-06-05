@@ -45,11 +45,11 @@
         <mxCell id="f49gPBboDWvJq2DYxOne-9" value="mos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-13" target="f49gPBboDWvJq2DYxOne-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-13" value="POWER&lt;div&gt;SC8911&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="490" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-17" target="f49gPBboDWvJq2DYxOne-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-17" value="Protocol&lt;div&gt;CS32G023&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
