@@ -51,7 +51,7 @@
         <mxCell id="f49gPBboDWvJq2DYxOne-17" value="Protocol&lt;div&gt;CS32G023&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#225555;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-2">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="290" as="targetPoint" />
           </mxGeometry>
@@ -62,7 +62,7 @@
         <mxCell id="0ZpEB432WeYQlDTl-rbf-6" value="mos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.004;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#225555;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-9" target="f49gPBboDWvJq2DYxOne-13">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.004;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-9" target="f49gPBboDWvJq2DYxOne-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
