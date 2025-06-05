@@ -215,7 +215,7 @@
         <mxCell id="0ZpEB432WeYQlDTl-rbf-61" value="UI(LED)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-66" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-66" value="Pmos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="474" y="498" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
