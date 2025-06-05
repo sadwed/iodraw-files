@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f49gPBboDWvJq2DYxOne-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="510" as="targetPoint" />
+            <mxPoint x="460" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-4" value="RX_Receiver&lt;div&gt;MT57&lt;span style=&quot;background-color: initial;&quot;&gt;88&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,11 +58,11 @@
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-11" value="IIC/MUX_IO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0ZpEB432WeYQlDTl-rbf-10">
           <mxGeometry x="0.5093" relative="1" as="geometry">
-            <mxPoint x="-40" y="93" as="offset" />
+            <mxPoint x="-40" y="56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-17" value="Protocol&lt;div&gt;CS32G023&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-2">
           <mxGeometry relative="1" as="geometry">
