@@ -162,7 +162,7 @@
             <mxPoint x="760" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-28">
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#FF0000;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="277.8095474243164" y="338.5476163228353" as="targetPoint" />
             <Array as="points">
@@ -236,7 +236,7 @@
           <mxGeometry x="472" y="528" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-72" value="Pmos由023控制&lt;div&gt;Nmos由SC8911控制&lt;/div&gt;&lt;div&gt;红线表示电源路径&lt;/div&gt;&lt;div&gt;黑线表示通信和控制&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="549" y="522" width="113" height="25" as="geometry" />
+          <mxGeometry x="546" y="494" width="113" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.623;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-30" target="0ZpEB432WeYQlDTl-rbf-39">
           <mxGeometry relative="1" as="geometry" />
