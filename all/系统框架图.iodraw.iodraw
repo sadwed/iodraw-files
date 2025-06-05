@@ -79,6 +79,11 @@
             <mxPoint x="370" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-62" value="MUX_IO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0ZpEB432WeYQlDTl-rbf-59">
+          <mxGeometry x="-0.4611" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-17" value="Protocol&lt;div&gt;CS32G023&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
         </mxCell>
@@ -210,8 +215,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ZpEB432WeYQlDTl-rbf-61" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="0ZpEB432WeYQlDTl-rbf-61" value="UI" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
