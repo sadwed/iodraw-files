@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="340" />
-              <mxPoint x="260" y="390" />
+              <mxPoint x="260" y="349" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f49gPBboDWvJq2DYxOne-17" value="Protocol&lt;div&gt;CS32G023&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="434" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ZpEB432WeYQlDTl-rbf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="0ZpEB432WeYQlDTl-rbf-2">
           <mxGeometry relative="1" as="geometry">
