@@ -46,6 +46,9 @@
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-12" value="背对背pmos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="407.5" width="70" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="8nqIt2TWmpeQlnM0VgG3-18" value="2cell_电池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
