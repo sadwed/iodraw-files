@@ -7,7 +7,7 @@
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-1" value="SC8815A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8nqIt2TWmpeQlnM0VgG3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8nqIt2TWmpeQlnM0VgG3-2" value="SC8815A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8nqIt2TWmpeQlnM0VgG3-3" target="8nqIt2TWmpeQlnM0VgG3-1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-4" value="背对背pmos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="407.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqIt2TWmpeQlnM0VgG3-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
