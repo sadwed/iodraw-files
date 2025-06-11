@@ -19,6 +19,11 @@
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8nqIt2TWmpeQlnM0VgG3-4" target="8nqIt2TWmpeQlnM0VgG3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8nqIt2TWmpeQlnM0VgG3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8nqIt2TWmpeQlnM0VgG3-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-4" value="背对背pmos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="407.5" width="70" height="45" as="geometry" />
         </mxCell>
@@ -48,6 +53,9 @@
         </mxCell>
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-18" value="2cell_电池" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqIt2TWmpeQlnM0VgG3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8nqIt2TWmpeQlnM0VgG3-3" target="8nqIt2TWmpeQlnM0VgG3-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
