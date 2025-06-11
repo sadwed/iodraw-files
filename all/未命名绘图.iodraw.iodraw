@@ -14,7 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-3" value="背对背pmos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="215" width="70" height="45" as="geometry" />
+          <mxGeometry x="460" y="217.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8nqIt2TWmpeQlnM0VgG3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8nqIt2TWmpeQlnM0VgG3-4" target="8nqIt2TWmpeQlnM0VgG3-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8nqIt2TWmpeQlnM0VgG3-4" value="背对背pmos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="407.5" width="70" height="45" as="geometry" />
