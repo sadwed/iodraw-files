@@ -28,8 +28,14 @@
         <mxCell id="ikstYLigMduoPZW6nrUN-7" value="0%-0-4200-50℃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ikstYLigMduoPZW6nrUN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikstYLigMduoPZW6nrUN-9" target="ikstYLigMduoPZW6nrUN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ikstYLigMduoPZW6nrUN-9" value="800" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ikstYLigMduoPZW6nrUN-11" value="100%-800-5800-3&lt;span style=&quot;background-color: initial;&quot;&gt;0℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
