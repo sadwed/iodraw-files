@@ -40,7 +40,7 @@
         <mxCell id="ikstYLigMduoPZW6nrUN-11" value="100%-800-计算5800--实际5000-3&lt;span style=&quot;background-color: initial;&quot;&gt;0℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ikstYLigMduoPZW6nrUN-13" value="0%-800-放电4200-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ikstYLigMduoPZW6nrUN-13" value="0%-0-放电4200-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
