@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikstYLigMduoPZW6nrUN-1" value="69%-0-计算3450-实际3450-25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikstYLigMduoPZW6nrUN-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikstYLigMduoPZW6nrUN-3" target="ikstYLigMduoPZW6nrUN-5">
           <mxGeometry relative="1" as="geometry" />
