@@ -218,8 +218,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-81" value="Rup=10K" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-80">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-81" value="Rup=10K" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-80">
           <mxGeometry x="-0.0032" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-82" value="CC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-80">
+          <mxGeometry x="0.2395" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
