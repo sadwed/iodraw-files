@@ -48,6 +48,9 @@
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-12" value="mux" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="547.5" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-14" target="U1Qrd6pD2QtOa3O1NfOJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-14" value="sl2.1s" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="657.5" width="80" height="50" as="geometry" />
         </mxCell>
