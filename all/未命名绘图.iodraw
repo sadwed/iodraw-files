@@ -68,7 +68,7 @@
             <mxPoint x="350" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-32" value="usb3.0&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-16">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-32" value="usb3.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-16">
           <mxGeometry x="0.0684" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
