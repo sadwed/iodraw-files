@@ -48,7 +48,7 @@
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-12" target="U1Qrd6pD2QtOa3O1NfOJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-31" value="USB3.0/CC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-15">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-31" value="USB3.2/CC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=5;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-15">
           <mxGeometry x="-0.2289" y="2" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -73,7 +73,7 @@
             <mxPoint x="350" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-32" value="usb3.0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-16">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-32" value="usb3.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-16">
           <mxGeometry x="0.0684" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
