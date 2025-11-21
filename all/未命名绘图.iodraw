@@ -42,7 +42,7 @@
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-11" value="pd controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-11" value="pd controller&lt;div&gt;cpw3210&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="767.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-12" target="U1Qrd6pD2QtOa3O1NfOJ-4">
