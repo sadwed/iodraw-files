@@ -181,7 +181,7 @@
           <mxGeometry x="585" y="767.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-51" value="mux" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="585" y="599.75" width="55" height="32.5" as="geometry" />
+          <mxGeometry x="585" y="610" width="55" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-54" value="sl2.1s" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="657.5" width="55" height="32.5" as="geometry" />
@@ -200,6 +200,9 @@
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-74" value="pd ctrl" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="705" width="55" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-75" value="mux" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="595" y="620" width="55" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
