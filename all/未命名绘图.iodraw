@@ -34,7 +34,7 @@
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-25" value="CC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-24">
           <mxGeometry x="-0.3555" y="2" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-11" value="pd controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -126,8 +126,8 @@
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-33" value="SRC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="412.5" y="720" width="45" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-34" value="support FRS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="720" width="45" height="12" as="geometry" />
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-34" value="support FRS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="45" height="12" as="geometry" />
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-35" value="SRC" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="412.5" y="610" width="45" height="12" as="geometry" />
