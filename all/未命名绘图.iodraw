@@ -204,11 +204,11 @@
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-75" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;loadswitch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="565.31" width="45" height="14.38" as="geometry" />
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-77" target="U1Qrd6pD2QtOa3O1NfOJ-63">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-77" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;loadswitch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="675.6199999999999" width="45" height="14.38" as="geometry" />
+        </mxCell>
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="452" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
