@@ -123,8 +123,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-33" value="DRP" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="818" width="100" height="40" as="geometry" />
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-33" value="DRP" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="405" y="830" width="60" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
