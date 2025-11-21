@@ -166,15 +166,14 @@
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-71" value="vbus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U1Qrd6pD2QtOa3O1NfOJ-70">
           <mxGeometry x="0.1313" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-48" target="U1Qrd6pD2QtOa3O1NfOJ-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="793" />
-              <mxPoint x="570" y="820" />
-              <mxPoint x="530" y="820" />
+              <mxPoint x="625" y="830" />
+              <mxPoint x="530" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
