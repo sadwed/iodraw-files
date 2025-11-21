@@ -229,11 +229,11 @@
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-86" target="U1Qrd6pD2QtOa3O1NfOJ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-86" value="mos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-86" value="mos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="661.25" y="784.5" width="18.75" height="18" as="geometry" />
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-95" value="mos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="671.25" y="794.5" width="18.75" height="18" as="geometry" />
+          <mxGeometry x="661.25" y="749.5" width="18.75" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
