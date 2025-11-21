@@ -17,13 +17,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-4" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-4" value="C2" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="400" y="550" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-6" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-6" value="C3" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="400" y="660" width="70" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-7" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-7" value="C4" style="ellipse;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="400" y="770" width="70" height="45" as="geometry" />
         </mxCell>
       </root>
