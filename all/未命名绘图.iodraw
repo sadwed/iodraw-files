@@ -169,10 +169,10 @@
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-48" target="U1Qrd6pD2QtOa3O1NfOJ-45">
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U1Qrd6pD2QtOa3O1NfOJ-48" target="U1Qrd6pD2QtOa3O1NfOJ-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="625" y="830" />
+              <mxPoint x="590" y="830" />
               <mxPoint x="530" y="830" />
             </Array>
           </mxGeometry>
@@ -230,6 +230,9 @@
         </mxCell>
         <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-83" value="HUB" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="814.5" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U1Qrd6pD2QtOa3O1NfOJ-86" value="5v" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="729.5" width="22.5" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
