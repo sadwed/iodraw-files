@@ -18,7 +18,7 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-2" value="RX_CHIP拉低关闭RX工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-6" value="1、休眠后协议IO可以保持状态，锁存IC可以不添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-6" value="1、协议休眠后IO可以保持状态，锁存IC可以不添加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="770" width="167.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-10" target="HGg4-ybM9FRgcoOWLZI3-11">
@@ -86,7 +86,7 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-26" value="当前问题点：充满电后，协议拉低CHIPEN关闭RX，休眠后释放了CHIPEN，RX重新工作唤醒协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="770" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-27" value="2、=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-27" value="2、协议休眠后为什么要释放CHIPEN，主要是考量如果客户拿走设备长时间不用，再放到母座上，也无法唤醒，必须通过C口或者TX再次唤醒性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="820" width="167.5" height="30" as="geometry" />
         </mxCell>
       </root>
