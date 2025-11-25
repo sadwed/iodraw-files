@@ -56,11 +56,14 @@
             <mxPoint x="44" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-11" target="HGg4-ybM9FRgcoOWLZI3-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-11" value="协议进入休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="640" width="135" height="80" as="geometry" />
+          <mxGeometry x="257.5" y="660" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
