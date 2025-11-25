@@ -7,7 +7,7 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-1" target="HGg4-ybM9FRgcoOWLZI3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-1" value="充满电后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-1" value="充满电后，或触发异常后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-2" target="HGg4-ybM9FRgcoOWLZI3-10">
