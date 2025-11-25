@@ -64,14 +64,14 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-11" target="HGg4-ybM9FRgcoOWLZI3-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-11" value="协议休眠，RXCHIPEN释放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-11" value="协议休眠&lt;div&gt;RXCHIPEN释放&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-18" target="HGg4-ybM9FRgcoOWLZI3-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="238" y="700" />
-              <mxPoint x="238" y="590" />
+              <mxPoint x="230" y="700" />
+              <mxPoint x="230" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
