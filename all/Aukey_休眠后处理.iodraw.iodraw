@@ -18,13 +18,8 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-2" value="RX_CHIP拉低关闭RX工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HGg4-ybM9FRgcoOWLZI3-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="590" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-6" value="1、休眠后协议IO可以保持状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-10" target="HGg4-ybM9FRgcoOWLZI3-11">
           <mxGeometry relative="1" as="geometry" />
@@ -63,6 +58,9 @@
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-11" value="协议进入休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="640" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
