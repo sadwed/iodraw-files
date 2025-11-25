@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-6" value="1、休眠后协议IO可以保持状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-10" target="HGg4-ybM9FRgcoOWLZI3-11">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-17" value="有C口或者touch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
           <mxGeometry x="-0.5835" y="-2" relative="1" as="geometry">
-            <mxPoint x="44" y="-2" as="offset" />
+            <mxPoint x="44" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-11" value="协议进入休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
