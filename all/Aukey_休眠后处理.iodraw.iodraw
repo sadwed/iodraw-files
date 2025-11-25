@@ -56,7 +56,7 @@
             <mxPoint x="470" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-17" value="有C口或者toch触碰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-17" value="有C口或者touch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
           <mxGeometry x="-0.5835" y="-2" relative="1" as="geometry">
             <mxPoint x="44" y="-2" as="offset" />
           </mxGeometry>
