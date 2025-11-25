@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-17" value="有C口或者touch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
           <mxGeometry x="-0.5835" y="-2" relative="1" as="geometry">
-            <mxPoint x="26" y="-22" as="offset" />
+            <mxPoint x="26" y="-52" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-21" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="有设备接入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="660" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
