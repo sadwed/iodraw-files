@@ -83,7 +83,7 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="有设备接入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="660" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-26" value="当前问题点：充满电后，协议拉低CHIPEN关闭RX，休眠后释放了CHIPEN，RX重新工作唤醒协议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-26" value="&lt;font color=&quot;#ff0000&quot;&gt;当前问题点：充满电后，协议拉低CHIPEN关闭RX，休眠后释放了CHIPEN，RX重新工作唤醒协议&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-27" value="2、&lt;font color=&quot;#ff0000&quot;&gt;协议休眠后为什么要释放CHIPEN，主要是考量，RX无法再唤醒协议。&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;会出现一种场景客户拿走设备长时间不用，再放到母座上，也无法唤醒，必须通过C口或者TX再次唤醒&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
