@@ -46,14 +46,19 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-10" value="无设备情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-11">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-17" value="有C口或者touch" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
           <mxGeometry x="-0.5835" y="-2" relative="1" as="geometry">
-            <mxPoint x="44" y="-22" as="offset" />
+            <mxPoint x="26" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-16">
+          <mxGeometry x="-0.6764" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-11" target="HGg4-ybM9FRgcoOWLZI3-18">
@@ -62,7 +67,7 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-11" value="协议进入休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="有设备接入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="660" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
