@@ -36,7 +36,11 @@
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HGg4-ybM9FRgcoOWLZI3-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="420" as="targetPoint" />
+            <mxPoint x="420" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="475" />
+              <mxPoint x="470" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-10" value="无设备情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
