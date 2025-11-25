@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="S1b4Y8G4ZoxPHhE2JVW0">
-    <mxGraphModel dx="955" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="184" dy="138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,11 +78,6 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-22">
           <mxGeometry x="0.2716" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-24" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HGg4-ybM9FRgcoOWLZI3-22">
-          <mxGeometry x="0.016" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="有设备接入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
