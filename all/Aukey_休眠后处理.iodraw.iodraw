@@ -83,9 +83,6 @@
         <mxCell id="HGg4-ybM9FRgcoOWLZI3-18" value="有设备接入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="660" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HGg4-ybM9FRgcoOWLZI3-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
